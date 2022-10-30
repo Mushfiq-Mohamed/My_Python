@@ -32,8 +32,8 @@ print("9. Scorpion\n")
 print("10. Subzero\n")
 print("11. Kratos\n")
 print("12. Martian-Manhunter\n")
-print("Wonder Woman\n")
-print("Green Arrow\n")
+print("13. Wonder Woman\n")
+print("14. Green Arrow\n")
 
 
 

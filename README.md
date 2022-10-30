@@ -1,1 +1,2 @@
-This is a small game created using Python. ENJOY!
+This is a small game created by a beginner code learner using python. 
+HOPE YOU ENJOY 😁!
